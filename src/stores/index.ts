@@ -1,0 +1,3 @@
+export enum STORE_NAMES {
+    CURRENCY_STORE = "CURRENCY_STORE",
+}
